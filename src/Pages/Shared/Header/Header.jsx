@@ -10,10 +10,10 @@ const Header = () => {
             </label>
             <ul tabIndex={0} className="menu   menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
               <li><Link className='font-bold' to='/'>HOME</Link></li>
-              <li><Link className='font-bold' to='/services'>SERVICES</Link></li>
-              <li><Link className='font-bold' to='/projects'>PROJECTS</Link></li>
-              <li><Link className='font-bold' to='/contact'>CONTACT</Link></li>
-              <li><Link className='font-bold' to='/blog'>BLOG</Link></li>
+              <li><Link className='font-bold' to='/college'>COLLEGE</Link></li>
+              <li><Link className='font-bold' to='/admission'>ADMISSION</Link></li>
+              <li><Link className='font-bold' to='/mycollege'>MY COLLEGE</Link></li>
+              <li><Link className='font-bold' to='/profile'>PROFILE</Link></li>
             </ul>
           </div>
           <img className='h-10 w-10 ml-5 rounded-full' src="https://i.ibb.co/RcqKbmZ/image-5.png" alt="" />
@@ -22,10 +22,10 @@ const Header = () => {
         <div className="navbar-end hidden lg:flex">
           <ul className="menu text-white menu-horizontal px-1">
             <li><Link className='text-white font-bold' to='/'>HOME</Link></li>
-            <li><Link className='text-white font-bold' to='/services'>SERVICES</Link></li>
-            <li><Link className='text-white font-bold' to='/projects'>PROJECTS</Link></li>
-            <li><Link className='text-white font-bold' to='/contact'>CONTACT</Link></li>
-            <li><Link className='text-white font-bold' to='https://www.facebook.com/diginave'>BLOG</Link></li>
+            <li><Link className='text-white font-bold' to='/college'>COLLEGE</Link></li>
+            <li><Link className='text-white font-bold' to='/admission'>ADMISSION</Link></li>
+            <li><Link className='text-white font-bold' to='/mycollege'>MY COLLEGE</Link></li>
+            <li><Link className='text-white font-bold' to='/profile'>PROFILE</Link></li>
           </ul>
         </div>
   

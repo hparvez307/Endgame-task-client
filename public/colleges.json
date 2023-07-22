@@ -1,0 +1,296 @@
+[
+    {
+      "_id": 1,
+      "college_image": "https://example.com/college1.jpg",
+      "college_name": "Example University",
+      "admission_dates": {
+        "fall": "2023-09-01",
+        "spring": "2024-01-15"
+      },
+      "events": [
+        {
+          "event_name": "Orientation Day",
+          "date": "2023-08-28",
+          "location": "Campus Auditorium"
+        },
+        {
+          "event_name": "Career Fair",
+          "date": "2023-11-10",
+          "location": "Student Center"
+        }
+      ],
+      "research_history": {
+        "total_research_projects": 150,
+        "active_researchers": 85,
+        "recent_publications": [
+          {
+            "title": "Advancements in Robotics",
+            "authors": ["John Doe", "Jane Smith"],
+            "publication_date": "2023-05-15"
+          },
+          {
+            "title": "Environmental Sustainability",
+            "authors": ["Michael Johnson", "Emily Adams"],
+            "publication_date": "2023-07-02"
+          }
+        ]
+      },
+      "sports": [
+        {
+          "sport_name": "Basketball",
+          "coach": "Robert Johnson",
+          "home_court": "Campus Arena"
+        },
+        {
+          "sport_name": "Soccer",
+          "coach": "Maria Garcia",
+          "home_court": "Soccer Field"
+        }
+      ]
+    },
+    {
+      "college_image": "https://example.com/college2.jpg",
+      "college_name": "Another College",
+      "admission_dates": {
+        "fall": "2023-08-15",
+        "spring": "2024-01-10"
+      },
+      "events": [
+        {
+          "event_name": "Welcome Week",
+          "date": "2023-08-10",
+          "location": "Main Quad"
+        },
+        {
+          "event_name": "Guest Lecture Series",
+          "date": "2023-10-20",
+          "location": "Lecture Hall"
+        }
+      ],
+      "research_history": {
+        "total_research_projects": 100,
+        "active_researchers": 60,
+        "recent_publications": [
+          {
+            "title": "Advancements in Medicine",
+            "authors": ["Sarah Brown", "David Lee"],
+            "publication_date": "2023-06-20"
+          },
+          {
+            "title": "Machine Learning Applications",
+            "authors": ["Alex Johnson", "Olivia Adams"],
+            "publication_date": "2023-07-10"
+          }
+        ]
+      },
+      "sports": [
+        {
+          "sport_name": "Baseball",
+          "coach": "James Anderson",
+          "home_court": "Baseball Field"
+        },
+        {
+          "sport_name": "Tennis",
+          "coach": "Emma Wilson",
+          "home_court": "Tennis Courts"
+        }
+      ]
+    },
+    {
+        "college_image": "https://example.com/college3.jpg",
+        "college_name": "Tech Institute",
+        "admission_dates": {
+          "fall": "2023-10-01",
+          "spring": "2024-02-15"
+        },
+        "events": [
+          {
+            "event_name": "Tech Expo",
+            "date": "2023-09-20",
+            "location": "Tech Hall"
+          },
+          {
+            "event_name": "Hackathon",
+            "date": "2023-11-05",
+            "location": "Innovation Center"
+          }
+        ],
+        "research_history": {
+          "total_research_projects": 200,
+          "active_researchers": 120,
+          "recent_publications": [
+            {
+              "title": "Artificial Intelligence Trends",
+              "authors": ["Robert Johnson", "Emily Adams"],
+              "publication_date": "2023-06-15"
+            },
+            {
+              "title": "Renewable Energy Innovations",
+              "authors": ["Michael Brown", "Sophia Lee"],
+              "publication_date": "2023-07-30"
+            }
+          ]
+        },
+        "sports": [
+          {
+            "sport_name": "Volleyball",
+            "coach": "Anna Martinez",
+            "home_court": "Volleyball Arena"
+          },
+          {
+            "sport_name": "Swimming",
+            "coach": "Daniel Wilson",
+            "home_court": "Swimming Pool"
+          }
+        ]
+    },
+    {
+        "college_image": "https://example.com/college4.jpg",
+        "college_name": "Arts Academy",
+        "admission_dates": {
+          "fall": "2023-09-15",
+          "spring": "2024-01-20"
+        },
+        "events": [
+          {
+            "event_name": "Art Exhibition",
+            "date": "2023-08-25",
+            "location": "Art Gallery"
+          },
+          {
+            "event_name": "Theater Play",
+            "date": "2023-11-15",
+            "location": "Performing Arts Center"
+          }
+        ],
+        "research_history": {
+          "total_research_projects": 50,
+          "active_researchers": 30,
+          "recent_publications": [
+            {
+              "title": "Modern Art Movements",
+              "authors": ["David Lee", "Sophia Adams"],
+              "publication_date": "2023-05-25"
+            },
+            {
+              "title": "Cinematic Evolution",
+              "authors": ["Olivia Johnson", "Daniel Brown"],
+              "publication_date": "2023-07-15"
+            }
+          ]
+        },
+        "sports": [
+          {
+            "sport_name": "Gymnastics",
+            "coach": "Julia Hernandez",
+            "home_court": "Gymnastics Hall"
+          },
+          {
+            "sport_name": "Dance",
+            "coach": "Emma Garcia",
+            "home_court": "Dance Studio"
+          }
+        ]
+    },
+    {
+        "college_image": "https://example.com/college5.jpg",
+        "college_name": "Business College",
+        "admission_dates": {
+          "fall": "2023-08-20",
+          "spring": "2024-01-05"
+        },
+        "events": [
+          {
+            "event_name": "Entrepreneurship Summit",
+            "date": "2023-09-10",
+            "location": "Business Center"
+          },
+          {
+            "event_name": "Finance Conference",
+            "date": "2023-11-25",
+            "location": "Finance Auditorium"
+          }
+        ],
+        "research_history": {
+          "total_research_projects": 80,
+          "active_researchers": 50,
+          "recent_publications": [
+            {
+              "title": "Business Strategies",
+              "authors": ["John Smith", "Emma Lee"],
+              "publication_date": "2023-06-10"
+            },
+            {
+              "title": "Marketing Trends",
+              "authors": ["Michael Davis", "Olivia Brown"],
+              "publication_date": "2023-07-20"
+            }
+          ]
+        },
+        "sports": [
+          {
+            "sport_name": "Golf",
+            "coach": "William Johnson",
+            "home_court": "Golf Course"
+          },
+          {
+            "sport_name": "Cricket",
+            "coach": "Andrew Wilson",
+            "home_court": "Cricket Ground"
+          }
+        ]
+    },
+    {
+        "college_image": "https://example.com/college6.jpg",
+        "college_name": "Medical University",
+        "admission_dates": {
+          "fall": "2023-09-05",
+          "spring": "2024-02-01"
+        },
+        "events": [
+          {
+            "event_name": "Medical Symposium",
+            "date": "2023-09-02",
+            "location": "Medical Center"
+          },
+          {
+            "event_name": "Health Expo",
+            "date": "2023-11-08",
+            "location": "Health Sciences Building"
+          }
+        ],
+        "research_history": {
+          "total_research_projects": 120,
+          "active_researchers": 80,
+          "recent_publications": [
+            {
+              "title": "Advancements in Surgery",
+              "authors": ["Dr. Robert Johnson", "Dr. Emily Adams"],
+              "publication_date": "2023-05-30"
+            },
+            {
+              "title": "Medical Breakthroughs",
+              "authors": ["Dr. Michael Brown", "Dr. Sophia Lee"],
+              "publication_date": "2023-07-05"
+            }
+          ]
+        },
+        "sports": [
+          {
+            "sport_name": "Track and Field",
+            "coach": "Anna Anderson",
+            "home_court": "Athletics Track"
+          },
+          {
+            "sport_name": "Swimming",
+            "coach": "Daniel Wilson",
+            "home_court": "Swimming Pool"
+          }
+        ]
+    }
+      
+      
+      
+      
+  ]
+  
